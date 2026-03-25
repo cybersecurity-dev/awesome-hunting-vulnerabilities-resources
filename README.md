@@ -15,5 +15,10 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## Books
+* [Real-World Bug Hunting: A Field Guide to Web Hacking](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616)
+* [Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities/dp/1718501544)
+
+
 ## Videos
 * [RE//verse 2026: VulHunt: A Framework for Hunting Vulnerabilities in Binaries by Evangelista & Thomas](https://youtu.be/bMYaQcs03wQ?si=0Fs3di_qBatvMkm-)
